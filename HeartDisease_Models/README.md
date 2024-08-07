@@ -11,8 +11,6 @@ This repository contains two machine learning models applied to the heart diseas
 4. [Installation](#installation)
 5. [Usage](#usage)
 6. [Dependencies](#dependencies)
-7. [Contributing](#contributing)
-8. [License](#license)
 
 ## Overview
 
