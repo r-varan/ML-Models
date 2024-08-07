@@ -12,10 +12,7 @@ This repository contains a Jupyter Notebook that demonstrates a step-by-step app
 - [Evaluating the Model](#evaluating-the-model)
 - [Confusion Matrix](#confusion-matrix)
 - [ROC Curve](#roc-curve)
-- [Conclusion](#conclusion)
-- [Installation and Usage](#installation-and-usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Final Remarks](#final-remarks)
 
 ## Introduction
 
@@ -64,7 +61,7 @@ A confusion matrix is plotted to provide a detailed view of the model's performa
 
 The ROC curve is plotted to visualize the trade-off between the true positive rate and the false positive rate. The area under the ROC curve (AUC) is also computed.
 
-## Conclusion
+## Final Remarks
 
 The logistic regression model shows good performance in predicting heart disease. Further tuning and testing can improve its accuracy.
 
