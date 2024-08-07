@@ -42,8 +42,8 @@ Visualization: Plot clusters and cluster centers to understand feature relations
 
 Ensure you have the following Python packages installed:
 
-pandas==1.5.0
-scikit-learn==1.2.0
-matplotlib==3.6.0
+- pandas==1.5.0
+- scikit-learn==1.2.0
+- matplotlib==3.6.0
 
 
